@@ -22,10 +22,10 @@ Work Experience
 Executive Frontend / Threejs Engineer
 
 *   Integrated search, pagination, and state sync for labels
-*   Implemented image retrieval using perspective projection.
-*   Used point-to-line distance with projection for OBJ proximity
-*   Resolved OBJ scaling issues with raycaster
-*   Technical domains: Threejs, Angular, REST APIs, Git, Communication with distributed teams
+*   Implemented image retrieval using perspective projection
+*   Used point-to-line distance with projection for proximity threshold check
+*   Resolved OBJ size issues by applying raycaster scaling
+*   Technical domains: Three.js, Angular 17, REST APIs, Git, Communication with distributed teams
 
 **Grandeur** `Jun 2022 - Oct 2023`  
 Frontend Engineer / Developer Evangelist
