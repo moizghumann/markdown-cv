@@ -3,7 +3,7 @@ layout: cv
 title: Moiz Shaukat's CV
 ---
 # Moiz Shaukat
-=============
+
 
 Frontend engineer, Threejs developer | moizghuman.vercel.app
 
