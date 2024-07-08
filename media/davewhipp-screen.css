@@ -175,6 +175,7 @@ a:hover {
 }
 
 #webaddress p {
+	left: 0%;
 	text-decoration: none;
 	color: black;
 }

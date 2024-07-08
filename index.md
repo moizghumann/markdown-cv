@@ -5,7 +5,7 @@ title: Moiz Shaukat's resume
 # Moiz Shaukat
 
 <div id="webaddress">
-<a id="personal-contacts">Frontend engineer, Three.js developer</a>
+<p id="personal-contacts">Frontend engineer, Three.js developer</p>
 | <a href="https://moizghuman.vercel.app">moizghuman.vercel.app</a>
 </div>
 
@@ -44,25 +44,16 @@ Project Focused Frontend Engineer
 *   Led a team of four developers, reduced post-launch issues by 47%
 *   Ensured quality through code reviews and streamlined development with Git
 *   Technical domains: React, Nextjs, Typescript, Git, Wordpress, WooCommerce, Asana
-  
-
-Education
----------
-
-**University of Engineering and Technology, Lahore** `Oct 2020 - May 2024`
-
-*   Bachelors of Engineering (Electrical)
-*   Data Structures and Algorithms, Discrete Math, Deep learning
 
 
 Skills
 --------
 
-**Technologies:** React, Next.js, Wordpress, Three.js, Angular 2+, HTML5/CSS (Tailwind CSS, SASS), React Query, Zustand, RxJs (Beginner)
+**Technologies:** React, Next.js, Three.js, Angular 2+, HTML5/CSS (Tailwind CSS, SASS), React Query, Zustand, RxJs (Beginner)
 
 **Tools:** CI/CD, Git, REST API, React Hooks, UI/UX Design, Agile & Lean Development
 
-**Languages:** TypeScript, JavaScript (ECMA 2015+), Python, C
+**Languages:** TypeScript, JavaScript (ECMA 2015+)
 
 
 Leadership Experience
@@ -88,13 +79,20 @@ Real-Time Microgrid Visualization & Control
 **GameVerse** `Nov 2023 - Dec 2023`  
 Game Catalog Web Application
 
-*   Engineered catalog app with Rawg's APIs, reducing bugs by 22%.
-*   Implemented TypeScript for bug reduction.
-*   Used React Query for efficient caching.
-*   Employed Zustand for API latency reduction by 40%.
-*   Enhanced server-side rendering efficiency.
+*   Engineered catalog app with Rawg's APIs, reducing bugs by 22%
+*   Implemented TypeScript for bug reduction
+*   Used React Query for efficient caching
+*   Employed Zustand for API latency reduction by 40%
+*   Enhanced server-side rendering efficiency
 
 
+Education
+---------
+
+**University of Engineering and Technology, Lahore** `Oct 2020 - May 2024`
+
+*   Bachelors of Engineering (Electrical)
+*   Data Structures and Algorithms, Discrete Math, Deep learning
 
 <!-- ### Footer
 
