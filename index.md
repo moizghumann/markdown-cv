@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Moiz Shaukat's CV
+title: Moiz Shaukat's resume
 ---
 # Moiz Shaukat
 
