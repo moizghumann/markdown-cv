@@ -43,7 +43,7 @@ Project Focused Frontend Engineer
 *   Implemented ACF and WooCommerce plugins
 *   Led a team of four developers, reduced post-launch issues by 47%
 *   Ensured quality through code reviews and streamlined development with Git
-*   Technical domains: React, Nextjs, Typescript, Git, Chakra UI, Asana
+*   Technical domains: React, Nextjs, Typescript, Git, Wordpress, WooCommerce, Asana
   
 
 Education
