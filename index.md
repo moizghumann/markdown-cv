@@ -20,7 +20,7 @@ Work Experience
 ---------------
 
 **Aerodyne Group** `Jan 2024 - Present`  
-Executive Frontend/Threejs Engineer
+Executive Frontend / Threejs Engineer
 
 *   Integrated search, pagination, and state sync for labels
 *   Implemented image retrieval using perspective projection.
@@ -29,7 +29,7 @@ Executive Frontend/Threejs Engineer
 *   Technical domains: Threejs, Angular, REST APIs, Git, Communication with distributed teams
 
 **Grandeur** `Jun 2022 - Oct 2023`  
-Frontend Engineer/Developer Evangelist
+Frontend Engineer / Developer Evangelist
 
 *   Developed responsive canvas and form components
 *   Delivered keynotes at UCLA Wired hackathon
