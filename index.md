@@ -4,9 +4,17 @@ title: Moiz Shaukat's CV
 ---
 # Moiz Shaukat
 
-Frontend engineer, Three.js developer | [moizghuman.vercel.app](https://moizghuman.vercel.app)
+<div id="contacts">
+    <a id="personal-contacts">Frontend engineer, Three.js developer</a>
+    | <a href="https://moizghuman.vercel.app">moizghuman.vercel.app</a>
+</div>
 
-[Resume](https://resume.huikang.dev?utm_source=resume) | [LinkedIn](https://www.linkedin.com/in/moiz-shaukat-7ba6991ab/) | [Blog](https://moizghuman.vercel.app/blogs) | [Github](https://github.com/moizghumann)
+<div id="webaddress">
+<a href="https://moizghuman.gihtub.io/markdown-cv">Resume</a>
+| <a href="https://www.linkedin.com/in/moiz-shaukat-7ba6991ab/">LinkedIn</a>
+| <a href="https://moizghuman.vercel.app/blogs">Blog</a>
+| <a href="https://github.com/moizghumann">Github</a>
+</div>
 
 Work Experience
 ---------------
