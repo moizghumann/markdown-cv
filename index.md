@@ -4,7 +4,6 @@ title: Moiz Shaukat's CV
 ---
 # Moiz Shaukat
 
-
 Frontend engineer, Threejs developer | moizghuman.vercel.app
 
 [Resume](https://resume.huikang.dev?utm_source=resume) | [LinkedIn](https://www.linkedin.com/in/moiz-shaukat-7ba6991ab/) | [Blog](https://moizghuman.vercel.app/blogs) | [Github](https://github.com/moizghumann)
