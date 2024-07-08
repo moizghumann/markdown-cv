@@ -22,26 +22,27 @@ Work Experience
 **Aerodyne Group** `Jan 2024 - Present`  
 Executive Frontend/Threejs Engineer
 
-*   Developed customer-facing feature by integrating robust search, real-time pagination and state synchronization into label management
-*   Reviewed literature and implemented best view image retrieval with perspective projection techniques by implementing point to line distance with projection instead of euclidean distance when at closer proximity to imported OBJ
-*   Resolved scaling issues with OBJ model in canvas by correctly scaling the particular axis after measuring distances between two points using raycaster
+*   Integrated search, pagination, and state sync for labels
+*   Implemented image retrieval using perspective projection.
+*   Used point-to-line distance with projection for OBJ proximity
+*   Resolved OBJ scaling issues with raycaster
 *   Technical domains: Threejs, Angular, REST APIs, Git, Communication with distributed teams
 
 **Grandeur** `Jun 2022 - Oct 2023`  
 Frontend Engineer/Developer Evangelist
 
-*   Led the development of canvas and form components, resulting in a 30% increase in data accessibility and engagement
-*   Delivered impactful keynotes, driving IoT adoption at the UCLA Wired hackathon.
-*   Revolutionized IoT development with Grandeur's API, aligning with business requirements, enhancing design systems, and achieving significant user engagement boosts in frontend development projects.
+*   Developed responsive canvas and form components
+*   Delivered keynotes at UCLA Wired hackathon
+*   Led pair programming sessions at UCLA Wired
+*   Enhanced IoT with Grandeur's API through SDK developemnt
 *   Technical domains: Javascript, React, Next.js, TailwindCss, C, Arduino IDE
 
 **Sanem Digital** `Feb 2022 - Aug 2022`  
 Project Focused Frontend Engineer
 
-*   Led a team of four developers to deliver innovative web3 projects ahead of schedule, achieving 94% client satisfaction
-*   Utilized Git to streamline collaborative development, optimizing static site generation and responsive design, resulting in a 47% reduction in post-launch issues
-*   Designed and implemented custom WordPress themes and plugins, utilizing Advanced Custom Fields (ACF) and WooCommerce, to enhance site functionality and user experience, resulting in a 35% increase in client satisfaction
-*   Ensured compliance with quality standards through meticulous code reviews and debugging processes
+*   Implemented ACF and WooCommerce plugins
+*   Led a team of four developers, reduced post-launch issues by 47%
+*   Ensured quality through code reviews and streamlined development with Git
 *   Technical domains: React, Nextjs, Typescript, Git, Chakra UI, Asana
   
 
