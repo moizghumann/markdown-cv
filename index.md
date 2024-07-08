@@ -72,7 +72,7 @@ Leadership Experience
 FAST-NUCES Wired Hackathon
 
 *   Executed a concluding hackathon event at Darftarkhwan Vogue with investors and 100+ participants
-*   Secured cost-free hackathon venue, saving $400, through strategic partnerships and excellent communication skills.
+*   Secured cost-free hackathon venue, saving $400, through strategic partnerships
 
 
 Projects
