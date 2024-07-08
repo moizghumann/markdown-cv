@@ -66,10 +66,9 @@ Skills
 
 Leadership Experience
 ----------
-###FAST-NUCES Wired Hackathon###
 
 **Head of Events** `Aug 2022 - Sep 2022`  
-Committee Member, SAUVC participant
+FAST-NUCES Wired Hackathon
 
 *   Executed a concluding hackathon event at Darftarkhwan Vogue with investors and 100+ participants
 *   Secured cost-free hackathon venue, saving $400, through strategic partnerships and excellent communication skills.
