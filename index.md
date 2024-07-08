@@ -58,11 +58,11 @@ Education
 Skills
 --------
 
-**Technologies** React, Next.js, Wordpress, Three.js, Angular 2+, HTML5/CSS (Tailwind CSS, SASS), React Query, Zustand, RxJs (Beginner)
+**Technologies:** React, Next.js, Wordpress, Three.js, Angular 2+, HTML5/CSS (Tailwind CSS, SASS), React Query, Zustand, RxJs (Beginner)
 
-**Tools** CI/CD, Git, REST API, React Hooks, UI/UX Design, Agile & Lean Development
+**Tools:** CI/CD, Git, REST API, React Hooks, UI/UX Design, Agile & Lean Development
 
-**Languages** TypeScript, JavaScript (ECMA 2015+), Python, C
+**Languages:** TypeScript, JavaScript (ECMA 2015+), Python, C
 
 
 Leadership Experience
@@ -81,15 +81,18 @@ Projects
 **EcoGrid Insight** `Oct 2023 - Mar 2024`  
 Real-Time Microgrid Visualization & Control
 
-*   Crafted dynamic UI with React, JavaScript, and Tailwind CSS, resulting in 18% increase in engagement and 15% decrease in
-bounce rates
-*   Implemented React state management, reducing data latency by 30%. Facilitated comprehensive analysis of microgrid performance, improving decision-making and user satisfaction
+*   Developed dynamic UI and analyzed microgrid performance for better decisions
+*   Implemented client side logic for mqtt protocol adoption for real time microgrid testing
+*   Managed React state, reducing data latency by 30% and decreasing bounce rates by 15%
 
 **GameVerse** `Nov 2023 - Dec 2023`  
 Game Catalog Web Application
 
-*   Engineered catalog app fetching data from Rawg's APIs (third party API), reducing bugs by 22% with TypeScript
-*   Utilized React Query for efficient caching techniques and Zustand, cutting API latency by 40% improving server-side rendering efficiencies and load times
+*   Engineered catalog app with Rawg's APIs, reducing bugs by 22%.
+*   Implemented TypeScript for bug reduction.
+*   Used React Query for efficient caching.
+*   Employed Zustand for API latency reduction by 40%.
+*   Enhanced server-side rendering efficiency.
 
 
 
