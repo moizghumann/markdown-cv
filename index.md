@@ -5,7 +5,7 @@ title: Moiz Shaukat's CV
 # Moiz Shaukat
 
 <div id="webaddress">
-    <a id="personal-contacts">Frontend engineer, Three.js developer</a>
+    <p id="personal-contacts">Frontend engineer, Three.js developer</p>
     | <a href="https://moizghuman.vercel.app">moizghuman.vercel.app</a>
 </div>
 
