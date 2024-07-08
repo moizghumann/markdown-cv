@@ -1,86 +1,88 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Moiz Shaukat's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Moiz Shaukat
+=============
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+Frontend engineer, Threejs developer | moizghuman.vercel.app
 
+[Resume](https://resume.huikang.dev?utm_source=resume) | [LinkedIn](https://www.linkedin.com/in/moiz-shaukat-7ba6991ab/) | [Blog](https://moizghuman.vercel.app/blogs) | [Github](https://github.com/moizghumann)
 
-## Currently
+Work Experience
+---------------
 
-Standing on the shoulders of giants
+**Aerodyne Group** `Jan 2024 - Present`  
+Executive Frontend/Threejs Engineer
 
-### Specialized in
+*   Developed customer-facing feature by integrating robust search, real-time pagination and state synchronization into label management
+*   Reviewed literature and implemented best view image retrieval with perspective projection techniques by implementing point to line distance with projection instead of euclidean distance when at closer proximity to imported OBJ
+*   Resolved scaling issues with OBJ model in canvas by correctly scaling the particular axis after measuring distances between two points using raycaster
+*   Technical domains: Threejs, Angular, REST APIs, Git, Communication with distributed teams
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+**Grandeur** `Jun 2022 - Oct 2023`  
+Frontend Engineer/Developer Evangelist
 
+*   Led the development of canvas and form components, resulting in a 30% increase in data accessibility and engagement
+*   Delivered impactful keynotes, driving IoT adoption at the UCLA Wired hackathon.
+*   Revolutionized IoT development with Grandeur's API, aligning with business requirements, enhancing design systems, and achieving significant user engagement boosts in frontend development projects.
+*   Technical domains: Javascript, React, Next.js, TailwindCss, C, Arduino IDE
 
-### Research interests
+**Sanem Digital** `Feb 2022 - Aug 2022`  
+Project Focused Frontend Engineer
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+*   Led a team of four developers to deliver innovative web3 projects ahead of schedule, achieving 94% client satisfaction
+*   Utilized Git to streamline collaborative development, optimizing static site generation and responsive design, resulting in a 47% reduction in post-launch issues
+*   Designed and implemented custom WordPress themes and plugins, utilizing Advanced Custom Fields (ACF) and WooCommerce, to enhance site functionality and user experience, resulting in a 35% increase in client satisfaction
+*   Ensured compliance with quality standards through meticulous code reviews and debugging processes
+*   Technical domains: React, Nextjs, Typescript, Git, Chakra UI, Asana
+  
 
+Education
+---------
 
-## Education
+**University of Engineering and Technology, Lahore** `May 2017 - Aug 2021`
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+*   Bachelors of Engineering (Electrical)
+*   Data Structures and Algorithms, Discrete Math, Deep learning
 
 
+Skills
+--------
 
-## Publications
+**Technologies** React, Next.js, Wordpress, Three.js, Angular 2+, HTML5/CSS (Tailwind CSS, SASS), React Query, Zustand, RxJs (Beginner)
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+**Tools** CI/CD, Git, REST API, React Hooks, UI/UX Design, Agile & Lean Development
 
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+**Languages** TypeScript, JavaScript (ECMA 2015+), Python, C
 
 
-## Occupation
+Leadership Experience
+----------
+###FAST-NUCES Wired Hackathon###
 
-`1600`
-__Royal Mint__, London
+**Head of Events** `Aug 2022 - Sep 2022`  
+Committee Member, SAUVC participant
 
-- Warden
-- Minted coins
+*   Executed a concluding hackathon event at Darftarkhwan Vogue with investors and 100+ participants
+*   Secured cost-free hackathon venue, saving $400, through strategic partnerships and excellent communication skills.
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+
+Projects
+-----------------
+
+**EcoGrid Insight** `Oct 2023 - Mar 2024`  
+Real-Time Microgrid Visualization & Control
+
+*   Crafted dynamic UI with React, JavaScript, and Tailwind CSS, resulting in 18% increase in engagement and 15% decrease in
+bounce rates
+*   Implemented React state management, reducing data latency by 30%. Facilitated comprehensive analysis of microgrid performance, improving decision-making and user satisfaction
+
+**GameVerse** `Nov 2023 - Dec 2023`  
+Game Catalog Web Application
+
+*   Engineered catalog app fetching data from Rawg's APIs (third party API), reducing bugs by 22% with TypeScript
+*   Utilized React Query for efficient caching techniques and Zustand, cutting API latency by 40% improving server-side rendering efficiencies and load times
 
 
 
