@@ -94,7 +94,3 @@ Education
 *   Data Structures and Algorithms, Discrete Math, Deep learning
 
 <!-- ### Footer
-
-Last updated: May 2013 -->
-
-
