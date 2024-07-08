@@ -6,11 +6,10 @@ title: Moiz Shaukat's resume
 
 <div id="webaddress">
 <p id="personal-contacts">Frontend engineer, Three.js developer</p>
-| <a href="https://moizghuman.vercel.app">moizghuman.vercel.app</a>
 </div>
 
 <div id="webaddress">
-<a href="https://moizghuman.gihtub.io/markdown-cv">Resume</a>
+<a href="https://moizghuman.vercel.app">Portfolio</a>
 | <a href="https://www.linkedin.com/in/moiz-shaukat-7ba6991ab/">LinkedIn</a>
 | <a href="https://moizghuman.vercel.app/blogs">Blog</a>
 | <a href="https://github.com/moizghumann">Github</a>
