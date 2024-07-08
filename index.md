@@ -5,7 +5,7 @@ title: Moiz Shaukat's CV
 # Moiz Shaukat
 
 <div id="webaddress">
-<p id="personal-contacts">Frontend engineer, Three.js developer</p>
+<a id="personal-contacts">Frontend engineer, Three.js developer</a>
 | <a href="https://moizghuman.vercel.app">moizghuman.vercel.app</a>
 </div>
 
@@ -49,7 +49,7 @@ Project Focused Frontend Engineer
 Education
 ---------
 
-**University of Engineering and Technology, Lahore** `May 2017 - Aug 2021`
+**University of Engineering and Technology, Lahore** `Oct 2020 - May 2024`
 
 *   Bachelors of Engineering (Electrical)
 *   Data Structures and Algorithms, Discrete Math, Deep learning
