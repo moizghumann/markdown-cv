@@ -21,10 +21,9 @@ Work Experience
 **Aerodyne Group** `Jan 2024 - Present`  
 Executive Frontend / Threejs Engineer
 
-*   Integrated search, pagination, and state sync for labels
-*   Implemented image retrieval using perspective projection
-*   Used point-to-line distance with projection for proximity threshold check
-*   Resolved OBJ size issues by applying raycaster scaling
+*    Led the development of a high-fidelity 3D visualization system in Three.js, mapping dynamic thumbnail textures to drone position markers in real time. This solution integrated drone telemetry with accurate visual cues, enhancing operational visibility and enabling seamless navigation through 3D-rendered environments in the Nexus platform.
+*   Architected a robust, fault-tolerant upload pipeline for S3 capable of handling 2000+ image datasets. The solution mitigated client-side memory leakage, provided real-time progress tracking, and included a sophisticated mechanism for resuming uploads post-network disruption. Leveraged multi-part upload strategies, efficient XHR handling, and memory optimization techniques to ensure performance and reliability at scale.
+*   Developed complex geospatial visualizations using Mapbox, incorporating interactive polygon features for dynamic data representation. Implemented algorithms for precise manipulation of polygonal data, enabling real-time interaction and analysis of geographical features. This work enhanced user-driven spatial exploration and insights on large datasets with intuitive UI integration.
 *   Technical domains: Three.js, Angular 17, REST APIs, Git, Communication with distributed teams
 
 **Grandeur** `Jun 2022 - Oct 2023`  
